@@ -1,0 +1,8 @@
+---
+title: "R markdown"
+author: "Sohini"
+date: "24/01/2020"
+output: word_document
+---
+
+## This is a markdown file
